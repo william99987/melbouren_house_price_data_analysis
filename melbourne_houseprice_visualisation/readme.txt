@@ -1,0 +1,1 @@
+The program might take a while (around 30 seconds)to start. Please be patient. Have fun!

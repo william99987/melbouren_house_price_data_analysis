@@ -1,0 +1,69 @@
+/* styles.css */
+body {
+    font-family: 'Open Sans', sans-serif; /* Main typeface */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Impact', display; /* Display typeface for headings */
+    font-weight: bold;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+h6 {
+    font-size: 1em;
+}
+
+p {
+  font-size: 16px; /* Font size for paragraph text */
+  line-height: 1.6; /* Line height for better readability */
+  color: #666; /* Grey color for paragraph text */
+}
+
+/* ggiraph tooltips */
+.gg-tooltip {
+  background-color: #fff;
+  color: #333;
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 3px;
+  border: none;
+}
+
+.container {
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Highlight styles */
+.highlight-turquoise {
+    color: turquoise;
+}
+
+.highlight-coral {
+    color: coral;
+}
+
+
